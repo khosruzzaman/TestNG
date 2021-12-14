@@ -29,7 +29,7 @@ import org.testng.annotations.*;
 
 public class FirstUse {
 	
-	private static final String Parameters = null;
+	
 
 	@BeforeSuite
 	void beforeSuit() {
